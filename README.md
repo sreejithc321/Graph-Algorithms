@@ -1,4 +1,3 @@
-
 ## Graph
 
 A graph is a representation of a set of objects where some pairs of objects are connected by links. 
